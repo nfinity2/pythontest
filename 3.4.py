@@ -1,14 +1,27 @@
-fail = open("edm.txt", encoding="UTF-8")
+muusika = int(input("1) EDM 2) 80-ndad 3) Eesti Muusika 4) Jukebox "))
+ 
+if muusika == 2:
+    failinimi = "80ndad.txt"
+elif muusika == 3:
+    failinimi = "eesti_muusika.txt"
+else:
+    failinimi = "jukebox.txt"
 
+fail = open(failinimi, "r", encoding="utf-8")
 
 arv = 1
-
 for rida in fail:
-    print(arv,rida)
-    arv=arv + 1
+    rida = rida.strip() 
+    print(f"{arv}. {rida}")
+    arv=arv + 1 
 
-laul = int(input("Valige laulu järjekorranumber"))
+valik = int(input("Valige laulu järjekorranumber"))
 
+fail.seek(0)
 
-
-fail.close
+arv = 1 
+for rida in fail:
+    if arv == valik: 
+        print(rida)
+    arv += 1
+fail.close()
