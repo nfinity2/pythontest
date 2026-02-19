@@ -7,7 +7,7 @@ def pronksikarva_summa(tarv):
 
 failinimi = input("Palun sisesta failinimi!: ")
 
-fail = open("konto.txt",encoding="utf-8")
+fail = open("munt.txt",encoding="utf-8")
 
 tarv = []
 for rida in fail:
