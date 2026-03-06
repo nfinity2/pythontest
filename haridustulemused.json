@@ -1,0 +1,1502 @@
+[
+    {
+      "id": 1,
+      "nimi": "Adam Järve",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 73,
+        "loodusteadus": 96,
+        "ajalugu": 88,
+        "keel": 84
+      },
+      "tegevused": [
+        "teaduslaat",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 2,
+      "nimi": "Sara Tamm",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 64,
+        "loodusteadus": 73,
+        "ajalugu": 82,
+        "keel": 51
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 3,
+      "nimi": "Emma Väli",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 80,
+        "loodusteadus": 95,
+        "ajalugu": 67,
+        "keel": 63
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 4,
+      "nimi": "Julia Väli",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 63,
+        "loodusteadus": 83,
+        "ajalugu": 99,
+        "keel": 73
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 5,
+      "nimi": "Alexander Järve",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 78,
+        "loodusteadus": 65,
+        "ajalugu": 54,
+        "keel": 78
+      },
+      "tegevused": [
+        "näiteklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 6,
+      "nimi": "Oskar Saar",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 81,
+        "loodusteadus": 62,
+        "ajalugu": 63,
+        "keel": 67
+      },
+      "tegevused": [
+        "maleklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 7,
+      "nimi": "Gustav Kask",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 53,
+        "loodusteadus": 69,
+        "ajalugu": 62,
+        "keel": 75
+      },
+      "tegevused": [
+        "teaduslaat",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 8,
+      "nimi": "Linnea Järve",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 89,
+        "loodusteadus": 76,
+        "ajalugu": 60,
+        "keel": 50
+      },
+      "tegevused": [
+        "teaduslaat",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 9,
+      "nimi": "Lara Saar",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 55,
+        "loodusteadus": 53,
+        "ajalugu": 62,
+        "keel": 70
+      },
+      "tegevused": [
+        "näiteklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 10,
+      "nimi": "Matilda Väli",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 76,
+        "loodusteadus": 82,
+        "ajalugu": 99,
+        "keel": 78
+      },
+      "tegevused": [
+        "maleklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 11,
+      "nimi": "Emily Mägi",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 78,
+        "loodusteadus": 53,
+        "ajalugu": 88,
+        "keel": 76
+      },
+      "tegevused": [
+        "maleklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 12,
+      "nimi": "Laura Kask",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 100,
+        "loodusteadus": 87,
+        "ajalugu": 54,
+        "keel": 83
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 13,
+      "nimi": "Gabriel Rebane",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 87,
+        "loodusteadus": 77,
+        "ajalugu": 66,
+        "keel": 76
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 14,
+      "nimi": "Sara Kask",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 90,
+        "loodusteadus": 68,
+        "ajalugu": 78,
+        "keel": 52
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 15,
+      "nimi": "Sara Tamm",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 98,
+        "loodusteadus": 96,
+        "ajalugu": 66,
+        "keel": 73
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 16,
+      "nimi": "Julia Mägi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 75,
+        "loodusteadus": 70,
+        "ajalugu": 69,
+        "keel": 73
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 17,
+      "nimi": "Emma Kask",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 71,
+        "loodusteadus": 79,
+        "ajalugu": 54,
+        "keel": 51
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 18,
+      "nimi": "Hanna Rebane",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 75,
+        "loodusteadus": 50,
+        "ajalugu": 92,
+        "keel": 99
+      },
+      "tegevused": [
+        "näiteklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 19,
+      "nimi": "Axel Tamm",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 57,
+        "loodusteadus": 64,
+        "ajalugu": 86,
+        "keel": 56
+      },
+      "tegevused": [
+        "teaduslaat",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 20,
+      "nimi": "Maja Paju",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 97,
+        "loodusteadus": 91,
+        "ajalugu": 57,
+        "keel": 86
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 21,
+      "nimi": "Eva Rebane",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 92,
+        "loodusteadus": 81,
+        "ajalugu": 63,
+        "keel": 68
+      },
+      "tegevused": [
+        "näiteklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 22,
+      "nimi": "Eva Rebane",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 79,
+        "loodusteadus": 89,
+        "ajalugu": 57,
+        "keel": 63
+      },
+      "tegevused": [
+        "näiteklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 23,
+      "nimi": "Sigrid Järve",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 78,
+        "loodusteadus": 61,
+        "ajalugu": 94,
+        "keel": 64
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 24,
+      "nimi": "Sara Paju",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 74,
+        "loodusteadus": 85,
+        "ajalugu": 82,
+        "keel": 82
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 25,
+      "nimi": "Oliver Väli",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 66,
+        "loodusteadus": 89,
+        "ajalugu": 88,
+        "keel": 91
+      },
+      "tegevused": [
+        "teaduslaat",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 26,
+      "nimi": "Elise Rebane",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 82,
+        "loodusteadus": 74,
+        "ajalugu": 55,
+        "keel": 60
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 27,
+      "nimi": "Axel Saar",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 97,
+        "loodusteadus": 87,
+        "ajalugu": 52,
+        "keel": 74
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 28,
+      "nimi": "Leo Kivi",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 90,
+        "loodusteadus": 88,
+        "ajalugu": 65,
+        "keel": 84
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 29,
+      "nimi": "Elise Sepp",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 55,
+        "loodusteadus": 72,
+        "ajalugu": 96,
+        "keel": 100
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 30,
+      "nimi": "Adam Sepp",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 58,
+        "loodusteadus": 89,
+        "ajalugu": 90,
+        "keel": 61
+      },
+      "tegevused": [
+        "maleklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 31,
+      "nimi": "Viktor Saar",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 91,
+        "loodusteadus": 69,
+        "ajalugu": 68,
+        "keel": 57
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 32,
+      "nimi": "Gabriel Kivi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 66,
+        "loodusteadus": 56,
+        "ajalugu": 56,
+        "keel": 83
+      },
+      "tegevused": [
+        "näiteklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 33,
+      "nimi": "Hugo Järve",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 54,
+        "loodusteadus": 79,
+        "ajalugu": 77,
+        "keel": 70
+      },
+      "tegevused": [
+        "näiteklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 34,
+      "nimi": "Adam Mägi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 50,
+        "loodusteadus": 55,
+        "ajalugu": 89,
+        "keel": 97
+      },
+      "tegevused": [
+        "näiteklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 35,
+      "nimi": "Emilia Paju",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 51,
+        "loodusteadus": 73,
+        "ajalugu": 62,
+        "keel": 97
+      },
+      "tegevused": [
+        "teaduslaat",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 36,
+      "nimi": "Axel Väli",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 72,
+        "loodusteadus": 59,
+        "ajalugu": 51,
+        "keel": 69
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 37,
+      "nimi": "Oliver Mägi",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 80,
+        "loodusteadus": 53,
+        "ajalugu": 73,
+        "keel": 86
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 38,
+      "nimi": "Felix Kivi",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 96,
+        "loodusteadus": 50,
+        "ajalugu": 96,
+        "keel": 80
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 39,
+      "nimi": "Jakob Sepp",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 100,
+        "loodusteadus": 59,
+        "ajalugu": 56,
+        "keel": 58
+      },
+      "tegevused": [
+        "näiteklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 40,
+      "nimi": "Anton Rebane",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 64,
+        "loodusteadus": 56,
+        "ajalugu": 77,
+        "keel": 76
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 41,
+      "nimi": "Noah Mägi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 52,
+        "loodusteadus": 80,
+        "ajalugu": 68,
+        "keel": 96
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 42,
+      "nimi": "Lilly Sepp",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 84,
+        "loodusteadus": 64,
+        "ajalugu": 78,
+        "keel": 62
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 43,
+      "nimi": "Laura Järve",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 66,
+        "loodusteadus": 90,
+        "ajalugu": 59,
+        "keel": 98
+      },
+      "tegevused": [
+        "näiteklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 44,
+      "nimi": "Alma Järve",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 60,
+        "loodusteadus": 73,
+        "ajalugu": 56,
+        "keel": 79
+      },
+      "tegevused": [
+        "maleklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 45,
+      "nimi": "Johanna Saar",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 51,
+        "loodusteadus": 74,
+        "ajalugu": 73,
+        "keel": 89
+      },
+      "tegevused": [
+        "näiteklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 46,
+      "nimi": "Amanda Saar",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 57,
+        "loodusteadus": 98,
+        "ajalugu": 85,
+        "keel": 84
+      },
+      "tegevused": [
+        "näiteklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 47,
+      "nimi": "Liam Paju",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 78,
+        "loodusteadus": 58,
+        "ajalugu": 60,
+        "keel": 50
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 48,
+      "nimi": "Johanna Järve",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 71,
+        "loodusteadus": 75,
+        "ajalugu": 85,
+        "keel": 64
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 49,
+      "nimi": "Eva Kivi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 59,
+        "loodusteadus": 93,
+        "ajalugu": 66,
+        "keel": 74
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 50,
+      "nimi": "Sofia Järve",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 88,
+        "loodusteadus": 63,
+        "ajalugu": 66,
+        "keel": 58
+      },
+      "tegevused": [
+        "maleklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 51,
+      "nimi": "Erik Väli",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 86,
+        "loodusteadus": 59,
+        "ajalugu": 90,
+        "keel": 53
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 52,
+      "nimi": "Lucas Kivi",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 92,
+        "loodusteadus": 67,
+        "ajalugu": 87,
+        "keel": 98
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 53,
+      "nimi": "Liam Sepp",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 73,
+        "loodusteadus": 89,
+        "ajalugu": 85,
+        "keel": 90
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 54,
+      "nimi": "Liam Saar",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 79,
+        "loodusteadus": 55,
+        "ajalugu": 54,
+        "keel": 81
+      },
+      "tegevused": [
+        "näiteklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 55,
+      "nimi": "Vilhelm Tamm",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 81,
+        "loodusteadus": 93,
+        "ajalugu": 83,
+        "keel": 76
+      },
+      "tegevused": [
+        "teaduslaat",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 56,
+      "nimi": "Maja Paju",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 84,
+        "loodusteadus": 57,
+        "ajalugu": 92,
+        "keel": 79
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 57,
+      "nimi": "Hanna Järve",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 89,
+        "loodusteadus": 55,
+        "ajalugu": 73,
+        "keel": 74
+      },
+      "tegevused": [
+        "näiteklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 58,
+      "nimi": "Emilia Rebane",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 68,
+        "loodusteadus": 74,
+        "ajalugu": 79,
+        "keel": 54
+      },
+      "tegevused": [
+        "maleklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 59,
+      "nimi": "Lilly Järve",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 85,
+        "loodusteadus": 80,
+        "ajalugu": 98,
+        "keel": 77
+      },
+      "tegevused": [
+        "teaduslaat",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 60,
+      "nimi": "Erik Mägi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 86,
+        "loodusteadus": 53,
+        "ajalugu": 84,
+        "keel": 61
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 61,
+      "nimi": "Emily Kivi",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 52,
+        "loodusteadus": 68,
+        "ajalugu": 100,
+        "keel": 52
+      },
+      "tegevused": [
+        "näiteklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 62,
+      "nimi": "Oliver Kask",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 81,
+        "loodusteadus": 92,
+        "ajalugu": 80,
+        "keel": 83
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 63,
+      "nimi": "Gustav Sepp",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 96,
+        "loodusteadus": 90,
+        "ajalugu": 83,
+        "keel": 50
+      },
+      "tegevused": [
+        "teaduslaat",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 64,
+      "nimi": "Leo Sepp",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 74,
+        "loodusteadus": 74,
+        "ajalugu": 76,
+        "keel": 84
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 65,
+      "nimi": "Alma Väli",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 92,
+        "loodusteadus": 77,
+        "ajalugu": 78,
+        "keel": 78
+      },
+      "tegevused": [
+        "maleklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 66,
+      "nimi": "Noah Kivi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 52,
+        "loodusteadus": 83,
+        "ajalugu": 53,
+        "keel": 84
+      },
+      "tegevused": [
+        "näiteklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 67,
+      "nimi": "Gustav Mägi",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 65,
+        "loodusteadus": 61,
+        "ajalugu": 91,
+        "keel": 99
+      },
+      "tegevused": [
+        "maleklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 68,
+      "nimi": "Anna Paju",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 53,
+        "loodusteadus": 62,
+        "ajalugu": 81,
+        "keel": 94
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 69,
+      "nimi": "Sara Rebane",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 96,
+        "loodusteadus": 85,
+        "ajalugu": 58,
+        "keel": 67
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 70,
+      "nimi": "Sofia Väli",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 97,
+        "loodusteadus": 84,
+        "ajalugu": 91,
+        "keel": 74
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 71,
+      "nimi": "Leo Mägi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 81,
+        "loodusteadus": 69,
+        "ajalugu": 89,
+        "keel": 64
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 72,
+      "nimi": "Lucas Järve",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 67,
+        "loodusteadus": 52,
+        "ajalugu": 55,
+        "keel": 60
+      },
+      "tegevused": [
+        "näiteklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 73,
+      "nimi": "Lucas Kivi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 82,
+        "loodusteadus": 70,
+        "ajalugu": 87,
+        "keel": 53
+      },
+      "tegevused": [
+        "näiteklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 74,
+      "nimi": "Matilda Paju",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 75,
+        "loodusteadus": 58,
+        "ajalugu": 81,
+        "keel": 80
+      },
+      "tegevused": [
+        "maleklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 75,
+      "nimi": "Emma Tamm",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 76,
+        "loodusteadus": 67,
+        "ajalugu": 98,
+        "keel": 62
+      },
+      "tegevused": [
+        "teaduslaat",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 76,
+      "nimi": "Sigrid Sepp",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 83,
+        "loodusteadus": 73,
+        "ajalugu": 76,
+        "keel": 76
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 77,
+      "nimi": "Emma Paju",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 96,
+        "loodusteadus": 100,
+        "ajalugu": 76,
+        "keel": 64
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 78,
+      "nimi": "Mia Tamm",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 79,
+        "loodusteadus": 52,
+        "ajalugu": 97,
+        "keel": 78
+      },
+      "tegevused": [
+        "näiteklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 79,
+      "nimi": "Sigrid Väli",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 51,
+        "loodusteadus": 50,
+        "ajalugu": 52,
+        "keel": 88
+      },
+      "tegevused": [
+        "näiteklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 80,
+      "nimi": "Amanda Järve",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 81,
+        "loodusteadus": 62,
+        "ajalugu": 51,
+        "keel": 80
+      },
+      "tegevused": [
+        "maleklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 81,
+      "nimi": "Alma Sepp",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 64,
+        "loodusteadus": 75,
+        "ajalugu": 91,
+        "keel": 60
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 82,
+      "nimi": "Ida Tamm",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 92,
+        "loodusteadus": 65,
+        "ajalugu": 85,
+        "keel": 58
+      },
+      "tegevused": [
+        "maleklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 83,
+      "nimi": "Anton Paju",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 57,
+        "loodusteadus": 92,
+        "ajalugu": 84,
+        "keel": 82
+      },
+      "tegevused": [
+        "maleklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 84,
+      "nimi": "Ellen Järve",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 55,
+        "loodusteadus": 83,
+        "ajalugu": 52,
+        "keel": 99
+      },
+      "tegevused": [
+        "näiteklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 85,
+      "nimi": "Gustav Mägi",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 60,
+        "loodusteadus": 78,
+        "ajalugu": 86,
+        "keel": 60
+      },
+      "tegevused": [
+        "teaduslaat",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 86,
+      "nimi": "Oskar Kask",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 100,
+        "loodusteadus": 71,
+        "ajalugu": 83,
+        "keel": 71
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 87,
+      "nimi": "Oskar Paju",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 100,
+        "loodusteadus": 59,
+        "ajalugu": 51,
+        "keel": 55
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 88,
+      "nimi": "Lucas Rebane",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 91,
+        "loodusteadus": 70,
+        "ajalugu": 100,
+        "keel": 66
+      },
+      "tegevused": [
+        "teaduslaat",
+        "väitlusklubi"
+      ]
+    },
+    {
+      "id": 89,
+      "nimi": "Lucas Kivi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 100,
+        "loodusteadus": 71,
+        "ajalugu": 82,
+        "keel": 50
+      },
+      "tegevused": [
+        "näiteklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 90,
+      "nimi": "Ella Rebane",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 64,
+        "loodusteadus": 61,
+        "ajalugu": 89,
+        "keel": 97
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 91,
+      "nimi": "Emily Järve",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 53,
+        "loodusteadus": 75,
+        "ajalugu": 87,
+        "keel": 72
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 92,
+      "nimi": "Emily Sepp",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 79,
+        "loodusteadus": 64,
+        "ajalugu": 55,
+        "keel": 50
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 93,
+      "nimi": "Nora Kask",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 50,
+        "loodusteadus": 50,
+        "ajalugu": 72,
+        "keel": 72
+      },
+      "tegevused": [
+        "maleklubi",
+        "näiteklubi"
+      ]
+    },
+    {
+      "id": 94,
+      "nimi": "Emma Sepp",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 70,
+        "loodusteadus": 91,
+        "ajalugu": 70,
+        "keel": 97
+      },
+      "tegevused": [
+        "teaduslaat",
+        "maleklubi"
+      ]
+    },
+    {
+      "id": 95,
+      "nimi": "Oskar Saar",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 66,
+        "loodusteadus": 59,
+        "ajalugu": 81,
+        "keel": 71
+      },
+      "tegevused": [
+        "maleklubi",
+        "kirjandusklubi"
+      ]
+    },
+    {
+      "id": 96,
+      "nimi": "Amanda Saar",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 99,
+        "loodusteadus": 69,
+        "ajalugu": 77,
+        "keel": 63
+      },
+      "tegevused": [
+        "kirjandusklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 97,
+      "nimi": "Alice Kivi",
+      "klass": "10",
+      "hinded": {
+        "matemaatika": 74,
+        "loodusteadus": 73,
+        "ajalugu": 68,
+        "keel": 86
+      },
+      "tegevused": [
+        "matemaatikaklubi",
+        "teaduslaat"
+      ]
+    },
+    {
+      "id": 98,
+      "nimi": "Felix Saar",
+      "klass": "12",
+      "hinded": {
+        "matemaatika": 69,
+        "loodusteadus": 84,
+        "ajalugu": 59,
+        "keel": 74
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 99,
+      "nimi": "Maja Kivi",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 84,
+        "loodusteadus": 97,
+        "ajalugu": 100,
+        "keel": 91
+      },
+      "tegevused": [
+        "väitlusklubi",
+        "matemaatikaklubi"
+      ]
+    },
+    {
+      "id": 100,
+      "nimi": "Viktor Paju",
+      "klass": "11",
+      "hinded": {
+        "matemaatika": 69,
+        "loodusteadus": 79,
+        "ajalugu": 95,
+        "keel": 69
+      },
+      "tegevused": [
+        "teaduslaat",
+        "matemaatikaklubi"
+      ]
+    }
+  ]

@@ -18,7 +18,7 @@ def kolm_pikimat_nime(list):
         list.sort(key=len, reverse=True)
         return list[0:3]
     else:
-        return "pede"
+        return "tere"
 
 def ruut(a):
     for i in range(4):
