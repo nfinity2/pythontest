@@ -1,13 +1,10 @@
+import json
 import requests
 res = requests.get('https://dummyjson.com/products').json()
 sisu = res['products']
+
 kallimm = sisu[0]
 summa = 0
-
-
-data = requests.get('https://dummyjson.com/products').json()['products']
-
-# for i in data: print(i['title'], i['price'])
 
 print("---------------------------")
 print("tooted")
@@ -30,5 +27,5 @@ for i in sisu:
 print("---------------------------")
 print("kokkuvote")
 print("---------------------------")
-print("koige kallim toode on: ", kallimm['title'], kallimm['price'], "€")
-print("keskmine hind: ", round(summa / len(sisu), 2), "€")
+print("koige kallim toode on: ", kallimm['title'], kallimm['price'],"€")
+print("keskmine hind: ", round(summa / len(sisu), 2),"€")
