@@ -1,0 +1,34 @@
+import requests
+res = requests.get('https://dummyjson.com/products').json()
+sisu = res['products']
+kallimm = sisu[0]
+summa = 0
+
+
+data = requests.get('https://dummyjson.com/products').json()['products']
+
+# for i in data: print(i['title'], i['price'])
+
+print("---------------------------")
+print("tooted")
+print("---------------------------")
+for i in sisu:
+    print(i['title'], i['price'])
+    summa += i['price']
+    if i ['price'] > kallimm['price']:
+        kallimm = i
+
+print("---------------------------")
+print("lao seis")
+print("---------------------------")
+
+for i in sisu:  
+    if i ['stock'] < 20:
+        print(i['title'], i['stock'])
+
+
+print("---------------------------")
+print("kokkuvote")
+print("---------------------------")
+print("koige kallim toode on: ", kallimm['title'], kallimm['price'], "€")
+print("keskmine hind: ", round(summa / len(sisu), 2), "€")
