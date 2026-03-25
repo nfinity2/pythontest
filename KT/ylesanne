@@ -1,9 +1,10 @@
 import json
 import requests
+
 res = requests.get('https://dummyjson.com/products').json()
 sisu = res['products']
 
-kallimm = sisu[0]
+kallim = sisu[0]
 summa = 0
 
 print("---------------------------")
@@ -12,11 +13,11 @@ print("---------------------------")
 for i in sisu:
     print(i['title'], i['price'])
     summa += i['price']
-    if i ['price'] > kallimm['price']:
-        kallimm = i
+    if i ['price'] > kallim['price']:
+        kallim = i
 
 print("---------------------------")
-print("lao seis")
+print("lao seis alla 20")
 print("---------------------------")
 
 for i in sisu:  
@@ -27,5 +28,6 @@ for i in sisu:
 print("---------------------------")
 print("kokkuvote")
 print("---------------------------")
-print("koige kallim toode on: ", kallimm['title'], kallimm['price'],"€")
+
+print("koige kallim toode on: ", kallim['title'], kallim['price'],"€")
 print("keskmine hind: ", round(summa / len(sisu), 2),"€")
